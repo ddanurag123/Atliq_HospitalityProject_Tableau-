@@ -1,0 +1,11 @@
+--Key insights
+
+1. 'Mumbai' has generated the highest revenue(668.64 M) followed by other three cities.
+2. Property 'Atliq Exotica' in mumbai has generated the highest revenue(212.22 M).
+3. Property 'Atliq Exotica' in all cities( except delhi) has the highest revenue(320 M).
+   Room class wise 'Elite' rooms have the highest booking & revenue
+4. 'Delhi' has the highest occupancy (61 %) & the highest Avg Rating by city category.
+5. Property 'Atliq Blu' has the highest occupancy (62 %).
+6. Total 33k bookings got cancelled after successful bookings out of total 135k bookings.
+7. Total revenue loss is around 299M due to cancellation.
+8. Booking % from platform 'makeyourtrip' is highest
